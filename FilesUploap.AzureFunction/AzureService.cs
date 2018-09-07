@@ -68,7 +68,9 @@ namespace FilesUpload.AzureService
                 log.Error(e.Message);
                 throw new ArgumentNullException($"Error: {e.Message}");
             }
+
             return new InfoFile() { Url = blobUrl , ContentType = ContentType};
+
         }
 
     }
