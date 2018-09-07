@@ -1,0 +1,14 @@
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\obj\Debug\FilesUpload.AzureService.csprojAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\obj\Debug\FilesUpload.AzureService.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\FilesUpload.AzureService.dll
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\FilesUpload.AzureService.pdb
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\obj\Debug\FilesUpload.AzureService.csproj.CopyComplete
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\obj\Debug\FilesUpload.AzureService.dll
+C:\Users\Juan Manuel\Desktop\FilesUploap\FilesUpload.AzureService\obj\Debug\FilesUpload.AzureService.pdb
