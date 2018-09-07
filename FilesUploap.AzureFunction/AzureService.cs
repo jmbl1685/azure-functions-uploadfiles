@@ -46,7 +46,9 @@ namespace FilesUpload.AzureService
                 // TODO: Add method to save exception [message]
                 return container;
             }
+
             return container;
+
         }
         #endregion
 
@@ -72,6 +74,5 @@ namespace FilesUpload.AzureService
             return new InfoFile() { Url = blobUrl , ContentType = ContentType};
 
         }
-
     }
 }
